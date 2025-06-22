@@ -1,1 +1,1 @@
-# Week-1-Garbage-Classification-AICTE-Internship
+# Week-1-Garbage-Classification-AICTE-Internship 
