@@ -1,0 +1,1 @@
+# Week-1-Garbage-Classification-AICTE-Internship
